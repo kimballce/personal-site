@@ -1,8 +1,8 @@
-# My name is Chase -- and I’m looking for my next challenge.
+# Looking for my next challenge.
 
 ## About me:
 
-In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I’ve done this by implementing better technologies and realigning organizational structures. For example:
+In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I accomplish this through a combination of implementing better technologies and realigning organizational structures. For example:
 
 - I guided the implementation of a modern correspondence management system for the White House’s [Office of Presidential Correspondence](https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html?_r=0).
   - *The system is used by over 600 White House staff and volunteers to track constituent relationships. We overhauled dozens of business processes, doubling and tripling productivity.*
