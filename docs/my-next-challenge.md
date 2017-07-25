@@ -2,7 +2,7 @@
 
 ## About me:
 
-In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I accomplish this through a combination of implementing better technologies and realigning organizational structures. For example:
+In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I accomplish this by implementing better technologies and realigning organizational structures. For example:
 
 - I guided the implementation of a modern correspondence management system for the White House’s [Office of Presidential Correspondence](https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html?_r=0).
   - *The system is used by over 600 White House staff and volunteers to track constituent relationships. We overhauled dozens of business processes, doubling and tripling productivity.*
@@ -19,7 +19,10 @@ Many names describe the work I do: process engineering, product management, in-h
 ## About you:
 
 - You have an interesting challenge. Maybe you’re starting a new organization and need someone to help build it. Maybe you’re an older organization that wants to jump into the modern era with the help of better technology and smarter organizational dynamics.
-- You make a difference. I am especially drawn to organizations that serve the public good, but I can get excited about a great product or service, too.
+- You make a difference. I am especially drawn to organizations that:
+  - improve the technical or social infrastructure of society (both feel especially fragile right now), or
+  - help governments or civil society more effectively improve the lives of their constituents, or
+  - improve standards of living through exceptional, disruptive products or services.
 - You hire and empower great people. The other people in your organization are excellent, and you empower them and me to get our jobs done.
 - You are committed to building a diverse and inclusive workplace, and it shows.
 - You are based in D.C., or will otherwise allow me to work out of D.C. with no more than 25-35% travel.
