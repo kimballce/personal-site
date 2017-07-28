@@ -25,7 +25,7 @@ Many names describe the work I do: process engineering, product management, in-h
   - improve standards of living through exceptional, disruptive products or services.
 - You hire and empower great people. The other people in your organization are excellent, and you empower them and me to get our jobs done.
 - You are committed to building a diverse and inclusive workplace, and it shows.
-- You are based in D.C., or will otherwise allow me to work out of D.C. with no more than 25-35% travel.
+- You have an office in D.C., or will otherwise allow me to work out of D.C. with no more than 25-35% travel.
 
 
 
