@@ -5,7 +5,7 @@
 In recent years my work has focused on transforming processes within organizations to create dramatically better outcomes. I accomplish this by implementing better technologies and realigning organizational structures. For example:
 
 - I guided the implementation of a modern correspondence management system for the White House’s [Office of Presidential Correspondence](https://www.nytimes.com/2017/01/17/magazine/what-americans-wrote-to-obama.html?_r=0).
-  - *The system is used by over 600 White House staff and volunteers to track constituent relationships. We overhauled dozens of business processes, doubling and tripling productivity.*
+  - *The system is used by over 600 White House staff and volunteers to track constituent relationships. We overhauled dozens of business processes, tripling productivity. Some tasks went from taking three days to complete to twenty minutes.*
 - I built out the operations and implemented the technical tools to support the recruiting efforts of the [U.S. Digital Service](https://www.usds.gov/join).
   - *We transformed a leaky, ad hoc process into a well-oiled operation, processing over 5,000 applications in the first year.*
 - I helped streamline the [U.S. Refugee Admissions Program](http://www.webbyawards.com/news/how-a-small-troop-of-techies-led-the-us-syrian-refugee-surge/) through a series of technical, process, and organizational improvements—resulting in 85,000 refugee arrivals in FY2016.
@@ -13,7 +13,7 @@ In recent years my work has focused on transforming processes within organizatio
 
 Every success has been a team effort, and I love managing teams of highly skilled, mission-driven technologists. Heck, I love managing teams in general.
 
-Many names describe the work I do: process engineering, product management, in-house consulting, bureaucracy hacking, strategy and operations. My next challenge may go by a different name in your organization, or we may make up a new name together. Whatever the title, I’ll use my blend of technical and soft skills to implement or transform the processes your organization needs to achieve its mission.
+Many names describe the work I do: process engineering, product or project management, in-house consulting, bureaucracy hacking, strategy and operations. My next challenge may go by a different name in your organization, or we may make up a new name together. Whatever the title, I’ll use my blend of technical and soft skills to implement or transform the processes your organization needs to achieve its mission.
 
 
 ## About you:
